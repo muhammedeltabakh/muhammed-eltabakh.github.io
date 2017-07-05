@@ -46,11 +46,11 @@ var bio = {
 
   "Name" : "Muhammed Mahmoud",
   "Role" : "Data Scientist",
-  "Age" : "23",
+  "Age" : "24",
   "Biopic" : "images/me.jpg",
   "skills" : [
     "Machine Learning", " Data analysis", " Data Visualization", " Deep Learning", " Natural language processing", " Big data"," Statistics",
-    " Python", "Scala", "Haddop", "Spark"
+    " Python", "JavaScript", "Node js","Haddop", "Spark"
   ],
 
   "contacts" : {
@@ -230,6 +230,12 @@ var work = {
       "title": "Social Media moderator",
       "dates": "February 2017 - current",
       "description": "Handle customer support operations through app and social media channels, analyze social media data and give make decisions regarding social media channels"
+    },
+    {
+      "employer": "OMS",
+      "title": "Data Engineer",
+      "dates": "March 2017 - current",
+      "description": "Data cleaning, preprocessing, build Natural language processing models, evaluate performance of different nlp models"
     }
   ]
 }
